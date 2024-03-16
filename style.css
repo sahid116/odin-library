@@ -1,0 +1,32 @@
+#newBook{
+    margin: 0 auto;
+    background-color: Black;
+    color: whitesmoke;
+    display: block;
+    font-size: large;
+}
+form{
+    width: 500px;
+    margin: 50px auto;
+    text-align: center;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+
+.ele{
+    padding: 5px;
+    margin: 10px;
+}
+
+.book-card{
+    width: 23%;
+    text-align: center;
+    display: inline-block;
+    border: 3px solid #F6995C;
+    border-radius: 10px;
+    border-radius: 2px 2px 5px;
+    margin: 3px;
+}
